@@ -1,0 +1,6 @@
+afds;asdf;afds;10;RelaxareProgresiva, ImagerieDirijata;Antidepresiv;
+John;Roy;2138941;44;RespiratieControlata, RelaxareProgresiva, ImagerieDirijata, ExersareAbilitatiSociale;StabilizatorStare;
+john;Ilie;32342;3;RelaxareProgresiva, ExersareAbilitatiSociale;Anxiolitic;
+Gab;Ion;3242;68;RelaxareProgresiva, ImagerieDirijata;SSRI;
+Ion;Popescu;1234567;35;RespiratieControlata, RelaxareProgresiva;StabilizatorStare;
+Ionela;Mo;3213123;20;RelaxareProgresiva, ImagerieDirijata;Anxiolitic;

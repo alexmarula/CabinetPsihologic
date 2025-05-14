@@ -1,0 +1,7 @@
+Roby;fdsfads;fads;mail.com;2001;
+Calin;Florian;Doctor;;125403;
+adfs;sfad;fdsa;asdf;231;
+Alex;dsa;fads;afds;1243;
+John;Albert;Doctor;mail.ro;14000;
+ionut;alexandru;doctor;ionutalex;3500;
+One;alin;doctor sef;dsdsa;5000;
